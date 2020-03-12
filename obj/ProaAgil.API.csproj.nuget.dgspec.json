@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PROG1\\Desktop\\dot\\ProAgil\\ProaAgil.API\\ProaAgil.API.csproj": {}
+    "C:\\Users\\PROG1\\Desktop\\dot\\ProAgil\\ProAgil-Eventos\\ProaAgil.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PROG1\\Desktop\\dot\\ProAgil\\ProaAgil.API\\ProaAgil.API.csproj": {
+    "C:\\Users\\PROG1\\Desktop\\dot\\ProAgil\\ProAgil-Eventos\\ProaAgil.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PROG1\\Desktop\\dot\\ProAgil\\ProaAgil.API\\ProaAgil.API.csproj",
+        "projectUniqueName": "C:\\Users\\PROG1\\Desktop\\dot\\ProAgil\\ProAgil-Eventos\\ProaAgil.API.csproj",
         "projectName": "ProaAgil.API",
-        "projectPath": "C:\\Users\\PROG1\\Desktop\\dot\\ProAgil\\ProaAgil.API\\ProaAgil.API.csproj",
+        "projectPath": "C:\\Users\\PROG1\\Desktop\\dot\\ProAgil\\ProAgil-Eventos\\ProaAgil.API.csproj",
         "packagesPath": "C:\\Users\\PROG1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PROG1\\Desktop\\dot\\ProAgil\\ProaAgil.API\\obj\\",
+        "outputPath": "C:\\Users\\PROG1\\Desktop\\dot\\ProAgil\\ProAgil-Eventos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
